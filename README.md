@@ -1,6 +1,6 @@
 # Guvi-Sales-Forecasting
 
-# Objective:
+# Objective
 1.The primary objective of this project was to deploy a range of advanced Machine Learning techniques to analyze and make predictions based on real-time data.
 2.Obtained data from GUVI Geek Network Pvt. Ltd., a prominent company, which comprised the sales records spanning the past several months.
 3.This project sought to delve into the modern landscape of data visualization tools, particularly focusing on the utilization of PowerBI. The aim was to explore how such tools are currently employed in the industry for data analysis purposes. PowerBI, renowned for its ease of use and learnability, proved to be a valuable asset throughout our analysis. 
